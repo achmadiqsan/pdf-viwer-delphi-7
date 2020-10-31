@@ -3,6 +3,8 @@ apikasi sederhana menampilkan atau membaca pdf di delphi 7
 
 KOMPONEN EKSTERNAL YANG DI PERLUKAN YAITU : ADOBE ACROBAT DC
 
+LINK RESMI : http://www.kluug.net/delphitwain.php
+
 
 LINK REFERENSI : 
 
